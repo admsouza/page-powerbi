@@ -1,0 +1,19 @@
+.iframe-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding-top: 56.25%; /* Mantém a proporção 16:9 */
+  overflow: hidden; /* Garante que não haja bordas visíveis fora do contêiner */
+}
+
+.iframe-container iframe {
+  border: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none; /* Remove bordas do iframe */
+}
