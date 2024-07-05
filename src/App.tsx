@@ -5,10 +5,10 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import News from "./pages/News";
 import Library from "./pages/Library";
-import Documentation from "./components/subpages/Documentation";
+import Documentation from "./subpages/Documentation";
 import About from "./pages/About";
-import Opendata from "./components/subpages/Opendata";
-import Declaration from "./components/subpages/Declaration";
+import Opendata from "./subpages/Opendata";
+import Declaration from "./subpages/Declaration";
 
 import "./styles/App.css";
 

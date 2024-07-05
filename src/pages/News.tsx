@@ -1,5 +1,5 @@
 import React from 'react';
-import Cauc from '../components/subpages/Cauc';
+import Cauc from '../subpages/Cauc';
 
 const News: React.FC = () => {
   return (
