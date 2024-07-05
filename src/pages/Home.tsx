@@ -1,7 +1,7 @@
 // pages/Home.tsx
 
-import React from 'react';
-import Powerbi from '../components/Powerbi';
+import React from "react";
+import Powerbi from "../components/Powerbi";
 
 const Home: React.FC = () => {
   return (

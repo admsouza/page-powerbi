@@ -2,31 +2,36 @@
 .navbar {
   background-color: #333;
   width: 100%;
-  position: sticky; 
-  top: 0; 
+  position: sticky;
+  top: 0;
   z-index: 1000;
-  overflow: hidden; 
 }
 
 .navbar-menu {
-  list-style-type: none; 
+  list-style-type: none;
   margin: 0;
   padding: 0;
-  display: flex; 
-  justify-content: center; 
+  display: flex;
+  justify-content: center;
+  text-decoration: aliceblue;
 }
 
 .navbar-item {
-  padding: 14px 20px; 
+  padding: 14px 20px;
 }
 
 .navbar-item a {
-  color: white; 
-  text-align: center; 
+  color: white;
+  text-align: center;
   text-decoration: none;
-  display: block; 
+  display: block;
 }
 
 .navbar-item a:hover {
   background-color: #575757; /* Cor de fundo ao passar o mouse sobre os links */
+}
+
+button {
+  font-weight: bold;
+  font-family: Arial, sans-serif;
 }

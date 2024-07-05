@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const About: React.FC = () => {
   return (
@@ -7,6 +7,6 @@ const About: React.FC = () => {
       <p>Texto da Página Sobre</p>
     </div>
   );
-}
+};
 
 export default About;

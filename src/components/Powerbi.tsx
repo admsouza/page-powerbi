@@ -1,5 +1,5 @@
-import React from 'react';
-import '../components/Powerbi.css';
+import React from "react";
+import "../components/Powerbi.css";
 
 const PowerbiReport: React.FC = () => {
   return (
