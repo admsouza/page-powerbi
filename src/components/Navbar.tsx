@@ -23,7 +23,9 @@ const Navbar: React.FC = () => {
 
   return (
     <NavbarContainer>
-      <AppBar position="static">
+      <AppBar position="fixed">
+        {" "}
+        {/* Alterado para position="fixed" */}
         <Toolbar>
           <Typography
             variant="h6"
