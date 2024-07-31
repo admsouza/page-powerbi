@@ -8,7 +8,7 @@ const PowerbiReport: React.FC = () => {
         title="Power BI"
         width="80%"
         height="800px"
-        src="https://app.powerbi.com/reportEmbed?reportId=08887ff8-b57d-4d08-990a-20a2d71439f1&autoAuth=true&ctid=a91f37d2-04f3-4b36-b4d9-61f0431b7205"
+        src="https://app.powerbi.com/reportEmbed?reportId=3174544a-d4c3-4abb-861e-2b9e0f41afb6&autoAuth=true&ctid=a91f37d2-04f3-4b36-b4d9-61f0431b7205"
         allowFullScreen
       ></iframe>
     </div>
